@@ -129,7 +129,7 @@ button:focus {
   border-radius: 1px;
 }
 .btn-bold:hover {
-  background-color: white;
+  background-color: rgb(238, 238, 238);
   color: orange;
-  border: none;
+  border: 1px solid orange;
 }

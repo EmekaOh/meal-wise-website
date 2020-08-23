@@ -156,6 +156,7 @@ body {
   .search-btn:hover {
     background-color: orange;
     color: white;
+    border: var(--border-white);
   }
   .third-section-main {
     position: relative;
@@ -164,6 +165,7 @@ body {
   .card {
     width: 310px;
   }
+  .card-1,
   .card-2,
   .card-3,
   .card-4 {
@@ -185,7 +187,7 @@ body {
     color: yellowgreen;
   }
   .nav-buttons {
-    padding: 0 1rem 0 1.1rem;
+    padding: 0 1rem 0 .7rem;
   }
   .nav-buttons a:first-child {
     border-radius: 10px 3px 3px 10px;
